@@ -1,4 +1,4 @@
-# 🧠 Proyecto: Estructuras de Control en JavaScript
+# 🧠 Estructuras de Control en JavaScript
 
 **👩‍🏫 Facilitadora:** Kenia Paiz  
 **📘 Grupo:** Full Stack Junior - 28  
